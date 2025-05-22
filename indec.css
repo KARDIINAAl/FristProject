@@ -1,4 +1,5 @@
 .div{
     counter-reset: blue;
     background-attachment: fixed;
+    font: optional;
 }
